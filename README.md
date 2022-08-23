@@ -3,6 +3,7 @@ emmmm.本人目前初一
 邮箱:wangxyper@outlook.com  
 MinecraftId: PabuMeko  
 NeteaseMCId: Novau233  
+QQ:2506442080
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangxyper&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
