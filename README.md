@@ -12,9 +12,6 @@ Telegram:@M2ke4U
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wangxyper&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://wakatime.com/share/@wangxyper/c1c37b8a-3360-4572-9b44-97e2b55b7026.svg" />
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wangxyper&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-
 <p align="center"> 
   Visit count<br>
   <img src="https://profile-counter.glitch.me/wangxyper/count.svg" />
