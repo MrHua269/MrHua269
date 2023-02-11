@@ -4,7 +4,8 @@ Emmm.本人目前初二,是个爱摆烂的咸鱼，非常讨厌内卷行为(
 MinecraftId: EarthMe  
 NeteaseMCId: Novau233  
 QQ:2506442080   
-Telegram:@M2ke4U
+Telegram:@M2ke4U 
+Discord:M2ke4U#2209
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangxyper&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
