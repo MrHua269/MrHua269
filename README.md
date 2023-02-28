@@ -7,6 +7,8 @@ QQ:2506442080
 Telegram:@M2ke4U  
 Discord:M2ke4U#2209 
 
+(目前可能没多少空整那一坨大饼项目了)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangxyper&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxyper&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
