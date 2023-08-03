@@ -1,4 +1,4 @@
-Emmm.本人目前初三,是个爱摆烂的咸鱼，非常讨厌内卷行为(
+Emmm.本人目前初三,爱摆烂咸鱼一条 <\a>
 刚学java（跳着学的，基本就用啥学啥）  
 邮箱:wangxyper@outlook.com  
 MinecraftId: EarthMe  
@@ -13,7 +13,6 @@ Discord:M2ke4U#2209
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHua269&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrHua269&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
   Visit count<br>
