@@ -1,4 +1,4 @@
-Emmm.本人目前初二,是个爱摆烂的咸鱼，非常讨厌内卷行为(
+Emmm.本人目前初三,是个爱摆烂的咸鱼，非常讨厌内卷行为(
 刚学java（跳着学的，基本就用啥学啥）  
 邮箱:wangxyper@outlook.com  
 MinecraftId: EarthMe  
