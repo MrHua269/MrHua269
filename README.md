@@ -1,7 +1,7 @@
 Emmm.本人目前初三,爱摆烂咸鱼一条 </a>
 刚学java（跳着学的，基本就用啥学啥）  
 邮箱:wangxyper@outlook.com  
-MinecraftId: EarthMe  
+MinecraftId: MrHua269
 NeteaseMCId: Novau233  
 QQ:2506442080   
 Telegram:@M2ke4U  
