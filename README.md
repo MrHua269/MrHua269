@@ -6,7 +6,7 @@ NeteaseMCId: Novau233
 QQ:2506442080   
 Telegram:@M2ke4U  
 Discord:M2ke4U#2209 
-
+(小号: Lora4697)
 (目前可能没多少空整那一坨大饼项目了)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrHua269&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +14,4 @@ Discord:M2ke4U#2209
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHua269&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center"> 
-  Visit count<br>
-  <img src="https://profile-counter.glitch.me/MrHua269/count.svg" />
-</p>
+![MrHua269&ViewCounter](https://api.likepoems.com/counter/get/@MrHua269)
