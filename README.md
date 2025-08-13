@@ -1,6 +1,6 @@
-Emmm.本人目前高一,爱摆烂咸鱼一条 </a>
+Emmm.本人目前高二,爱摆烂咸鱼一条 </a>
 刚学java（跳着学的，基本就用啥学啥）  
-邮箱:wangxyper@outlook.com  
+邮箱:mrhua269@gmail.com  
 MinecraftId: MrHua269
 NeteaseMCId: Novau233  
 QQ:2506442080   
