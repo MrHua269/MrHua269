@@ -8,3 +8,7 @@ Telegram:@M2ke4U
 Discord:M2ke4U#2209 
 (小号: Lora4967)
 (目前可能没多少空整那一坨大饼项目了)
+
+[![Anurag's github stats](https://github-readme-stats-indol-tau-70.vercel.app/api?username=MrHua269&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-indol-tau-70.vercel.app/api/top-langs/?username=MrHua269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
